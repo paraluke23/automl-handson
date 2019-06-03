@@ -1,6 +1,6 @@
 # automl-handson
 
-Notebook for Automated ML with Azure Databricks (ADB) workshop.
+Notebook for Automated ML with Azure Databricks (ADB) workshop. It includes data prep with Pandas, Training with automaed ML and deploy to ACI and AKS in a single notebook.
 
 Copy the .dbc URL and import it in Azure Databricks workspace.
 
